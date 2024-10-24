@@ -1,0 +1,11 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Harvzor.FromCookieAttribute.Example Watch" type="RunDotNetWatch" factoryName="RunDotNetWatch">
+    <option name="exePath" value="$PROJECT_DIR$/examples/Harvzor.FromCookieAttribute.Example/bin/Debug/net9.0/Harvzor.FromCookieAttribute.Example.exe" />
+    <option name="programParameters" value="" />
+    <option name="projectFilePath" value="$PROJECT_DIR$/examples/Harvzor.FromCookieAttribute.Example/Harvzor.FromCookieAttribute.Example.csproj" />
+    <option name="projectTfm" value="net9.0" />
+    <option name="watchParameters" value="" />
+    <option name="workingDirectory" value="$PROJECT_DIR$/examples/Harvzor.FromCookieAttribute.Example" />
+    <method v="2" />
+  </configuration>
+</component>
